@@ -13,6 +13,7 @@ in a command line, change to the root directory of the project, and then type
   
 Here is some code to use as an example:
 
+```java
 	import java.io.File;
 	import java.io.IOException;
 	import java.nio.file.Files;
@@ -148,3 +149,4 @@ Here is some code to use as an example:
 	        System.out.println("Verified: " + verified2);
 	    }
 	}
+```
